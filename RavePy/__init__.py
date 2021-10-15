@@ -1,1 +1,1 @@
-import RavePy.RavePy
+from . import RavePy
